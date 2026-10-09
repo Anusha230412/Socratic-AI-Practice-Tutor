@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Socratic AI Practice Tutor — Adaptive Programming Tutor</title>
+<link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<header><div><h1>🧠 Socratic AI Practice Tutor</h1><p>Adaptive programming & CS learning — the app measures your level, not just your selection.</p></div><div id="aiStatus" class="status">Checking AI…</div></header>
+<main class="container">
+<section class="setup panel">
+  <div><h2>🎓 Adaptive Learning Setup</h2><p class="muted">Choose a subject and your expected level. Your answers will override the self-selected level when the evidence says otherwise.</p></div>
+  <div class="setup-grid">
+    <label>Subject<select id="subjectSelect"></select></label>
+    <label>Your starting level<select id="levelSelect"></select></label>
+    <label>Question type<select id="typeSelect"><option value="mixed">Mixed (MCQ + Reasoning)</option><option value="mcq">Multiple Choice</option><option value="reasoning">Reasoning</option></select></label>
+    <button id="startBtn">🚀 Start Adaptive Practice</button><button id="diagnosticBtn" class="secondary">🧪 Assess My Level First</button>
+  </div>
+  <div class="level-strip"><span>Selected level: <b id="declaredLevel">Foundation</b></span><span>AI-detected level: <b id="detectedLevel">Foundation</b></span><span>Rule: performance decides the next level</span></div>
+</section>
+<section class="dashboard"><div class="stat"><span>Attempts</span><strong id="questionCount">0</strong></div><div class="stat"><span>Accuracy</span><strong id="accuracy">0%</strong></div><div class="stat"><span>Avg Confidence</span><strong id="confidence">0%</strong></div><div class="stat"><span>AI-Detected Level</span><strong id="difficulty">Foundation</strong></div></section>
+<section class="modes"><button class="mode active" data-mode="practice">🎯 Socratic</button><button class="mode" data-mode="devil">⚔️ Devil's Advocate</button><button class="mode" data-mode="teach">👩‍🏫 Teach-Back</button><button id="replayBtn" class="secondary">🔄 Replay</button><button id="insightsBtn" class="secondary">🧭 AI Profile</button></section>
+<section class="grid">
+<div class="panel mainpanel">
+ <div class="panel-head"><div><span class="tag" id="topicTag">Python</span><span class="tag" id="difficultyTag">Foundation</span><span class="tag" id="typeTag">MCQ</span></div><span id="questionNumber">Question 1</span></div>
+ <h2 id="modeTitle">🎯 Adaptive Socratic Practice</h2>
+ <h3 id="questionText"></h3>
+ <div id="mcqOptions" class="options"></div>
+ <textarea id="answer" placeholder="Explain your reasoning in your own words…"></textarea>
+ <div class="confidence-row"><label>How confident are you? <b id="confidenceValue">50%</b></label><input id="confidenceSlider" type="range" min="0" max="100" value="50"></div>
+ <div class="actions"><button id="analyzeBtn">✨ Submit & Analyze</button><button id="hintBtn" class="secondary">💡 Socratic Hint</button><button id="nextBtn" class="secondary">Next →</button></div>
+ <div id="result" class="result hidden"><div class="scoreline"><span>Reasoning / knowledge score</span><strong id="score">0</strong>/100</div><p class="detected-result">Detected learner level: <b id="resultLevel">Foundation</b></p><h4>AI / Adaptive Analysis</h4><p id="analysisText"></p><h4>Strengths</h4><ul id="strengths"></ul><h4>Misconception Fingerprint</h4><p id="fingerprint"></p><h4>Confidence Calibration</h4><p id="confidenceMessage"></p><h4>Next Adaptive Step</h4><p id="followup"></p><div class="nextbox"><b>Next Socratic Question:</b><span id="socraticQuestion"></span></div></div>
+</div>
+<aside>
+ <div class="panel"><h3>🧩 Misconception Fingerprint</h3><div id="misconceptions" class="stack"><div class="empty">No evidence yet.</div></div></div>
+ <div class="panel"><h3>📈 Knowledge Map</h3><div id="knowledgeMap"><p class="muted">Complete attempts to build your map.</p></div></div>
+ <div class="panel"><h3>🎯 AI Targeted Practice</h3><p class="muted">Generate a question from your weakest subject at your detected level.</p><button id="generateBtn">Generate Adaptive Practice</button><div id="practiceQuestion" class="practice-q"></div></div>
+ <div class="panel"><h3>📚 Subjects Covered</h3><p class="muted">Programming languages, core CS, AI/data and development topics.</p><div id="subjectList" class="subject-list"></div></div>
+ <div class="panel"><button id="resetBtn" class="danger full">Reset Progress</button></div>
+</aside>
+</section>
+<section id="replayPanel" class="panel replay hidden"><h2>🔄 Reasoning Replay</h2><div id="replayList"></div></section>
+<section id="insightsPanel" class="panel replay hidden"><h2>🧭 AI Learning Profile</h2><p id="profileSummary"></p><div id="recommendations"></div></section>
+</main>
+<script src="/static/js/app.js"></script>
+</body></html>

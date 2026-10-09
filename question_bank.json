@@ -1,0 +1,6386 @@
+[
+  {
+    "id": 1,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What keyword defines a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "answer": 1,
+    "explanation": "Python functions start with def."
+  },
+  {
+    "id": 2,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which collection stores key-value pairs?",
+    "options": [
+      "list",
+      "tuple",
+      "set",
+      "dict"
+    ],
+    "answer": 3,
+    "explanation": "A dictionary maps keys to values."
+  },
+  {
+    "id": 3,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Python: Which collection stores key-value pairs? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "A dictionary maps keys to values."
+  },
+  {
+    "id": 4,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does list.append(x) do?",
+    "options": [
+      "Removes x",
+      "Adds x to the end",
+      "Sorts the list",
+      "Copies the list"
+    ],
+    "answer": 1,
+    "explanation": "append adds one item at the end."
+  },
+  {
+    "id": 5,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a generator primarily useful for?",
+    "options": [
+      "Lazy iteration",
+      "Database joins",
+      "CSS styling",
+      "Compiling C"
+    ],
+    "answer": 0,
+    "explanation": "Generators produce values lazily and can save memory."
+  },
+  {
+    "id": 6,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Python: What is a generator primarily useful for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Generators produce values lazily and can save memory."
+  },
+  {
+    "id": 7,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is the usual average lookup complexity of a Python dict?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": 0,
+    "explanation": "Hash-table lookup is O(1) on average."
+  },
+  {
+    "id": 8,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a context manager commonly used for?",
+    "options": [
+      "Resource setup/cleanup",
+      "Sorting",
+      "Rendering CSS",
+      "Creating CPU threads only"
+    ],
+    "answer": 0,
+    "explanation": "with-statements provide structured setup and cleanup."
+  },
+  {
+    "id": 9,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Python: What is a context manager commonly used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "with-statements provide structured setup and cleanup."
+  },
+  {
+    "id": 10,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What keyword defines a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "answer": 1,
+    "explanation": "Python functions start with def."
+  },
+  {
+    "id": 11,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which collection stores key-value pairs?",
+    "options": [
+      "list",
+      "tuple",
+      "set",
+      "dict"
+    ],
+    "answer": 3,
+    "explanation": "A dictionary maps keys to values."
+  },
+  {
+    "id": 12,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Python: Which collection stores key-value pairs? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "A dictionary maps keys to values."
+  },
+  {
+    "id": 13,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does list.append(x) do?",
+    "options": [
+      "Removes x",
+      "Adds x to the end",
+      "Sorts the list",
+      "Copies the list"
+    ],
+    "answer": 1,
+    "explanation": "append adds one item at the end."
+  },
+  {
+    "id": 14,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a generator primarily useful for?",
+    "options": [
+      "Lazy iteration",
+      "Database joins",
+      "CSS styling",
+      "Compiling C"
+    ],
+    "answer": 0,
+    "explanation": "Generators produce values lazily and can save memory."
+  },
+  {
+    "id": 15,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Python: What is a generator primarily useful for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Generators produce values lazily and can save memory."
+  },
+  {
+    "id": 16,
+    "subject": "C",
+    "topic": "C",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which symbol ends a C statement?",
+    "options": [
+      ".",
+      ";",
+      ":",
+      "#"
+    ],
+    "answer": 1,
+    "explanation": "C statements normally end with a semicolon."
+  },
+  {
+    "id": 17,
+    "subject": "C",
+    "topic": "C",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which function is the usual C program entry point?",
+    "options": [
+      "start()",
+      "run()",
+      "main()",
+      "begin()"
+    ],
+    "answer": 2,
+    "explanation": "Execution normally begins at main."
+  },
+  {
+    "id": 18,
+    "subject": "C",
+    "topic": "C",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from C: Which function is the usual C program entry point? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Execution normally begins at main."
+  },
+  {
+    "id": 19,
+    "subject": "C",
+    "topic": "C",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does a pointer store?",
+    "options": [
+      "Only text",
+      "A memory address",
+      "A CPU instruction",
+      "A file"
+    ],
+    "answer": 1,
+    "explanation": "A pointer holds an address."
+  },
+  {
+    "id": 20,
+    "subject": "C",
+    "topic": "C",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is malloc used for?",
+    "options": [
+      "Dynamic memory allocation",
+      "String comparison",
+      "Looping",
+      "Printing"
+    ],
+    "answer": 0,
+    "explanation": "malloc allocates memory dynamically."
+  },
+  {
+    "id": 21,
+    "subject": "C",
+    "topic": "C",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from C: What is malloc used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "malloc allocates memory dynamically."
+  },
+  {
+    "id": 22,
+    "subject": "C",
+    "topic": "C",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What does const on a variable generally mean?",
+    "options": [
+      "It cannot be modified through that variable",
+      "It is global",
+      "It is a pointer",
+      "It is always zero"
+    ],
+    "answer": 0,
+    "explanation": "const prevents modification through that name."
+  },
+  {
+    "id": 23,
+    "subject": "C",
+    "topic": "C",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is pointer arithmetic powerful but risky?",
+    "options": [
+      "It can access memory directly",
+      "It disables compilation",
+      "It removes types",
+      "It prevents arrays"
+    ],
+    "answer": 0,
+    "explanation": "Pointer arithmetic can be efficient but can cause memory errors."
+  },
+  {
+    "id": 24,
+    "subject": "C",
+    "topic": "C",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from C: Why is pointer arithmetic powerful but risky? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Pointer arithmetic can be efficient but can cause memory errors."
+  },
+  {
+    "id": 25,
+    "subject": "C",
+    "topic": "C",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which symbol ends a C statement?",
+    "options": [
+      ".",
+      ";",
+      ":",
+      "#"
+    ],
+    "answer": 1,
+    "explanation": "C statements normally end with a semicolon."
+  },
+  {
+    "id": 26,
+    "subject": "C",
+    "topic": "C",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which function is the usual C program entry point?",
+    "options": [
+      "start()",
+      "run()",
+      "main()",
+      "begin()"
+    ],
+    "answer": 2,
+    "explanation": "Execution normally begins at main."
+  },
+  {
+    "id": 27,
+    "subject": "C",
+    "topic": "C",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from C: Which function is the usual C program entry point? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Execution normally begins at main."
+  },
+  {
+    "id": 28,
+    "subject": "C",
+    "topic": "C",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does a pointer store?",
+    "options": [
+      "Only text",
+      "A memory address",
+      "A CPU instruction",
+      "A file"
+    ],
+    "answer": 1,
+    "explanation": "A pointer holds an address."
+  },
+  {
+    "id": 29,
+    "subject": "C",
+    "topic": "C",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is malloc used for?",
+    "options": [
+      "Dynamic memory allocation",
+      "String comparison",
+      "Looping",
+      "Printing"
+    ],
+    "answer": 0,
+    "explanation": "malloc allocates memory dynamically."
+  },
+  {
+    "id": 30,
+    "subject": "C",
+    "topic": "C",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from C: What is malloc used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "malloc allocates memory dynamically."
+  },
+  {
+    "id": 31,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which feature allows the same function name with different parameters?",
+    "options": [
+      "Overloading",
+      "Casting",
+      "Linking",
+      "Inlining"
+    ],
+    "answer": 0,
+    "explanation": "Function overloading uses the same name with different signatures."
+  },
+  {
+    "id": 32,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which keyword creates an object dynamically?",
+    "options": [
+      "new",
+      "make",
+      "alloc",
+      "object"
+    ],
+    "answer": 0,
+    "explanation": "new allocates an object dynamically."
+  },
+  {
+    "id": 33,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from C++: Which keyword creates an object dynamically? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "new allocates an object dynamically."
+  },
+  {
+    "id": 34,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is RAII mainly about?",
+    "options": [
+      "Resource lifetime tied to object lifetime",
+      "Remote APIs",
+      "CSS rules",
+      "Database indexing"
+    ],
+    "answer": 0,
+    "explanation": "RAII manages resources through object lifetime."
+  },
+  {
+    "id": 35,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a virtual function used for?",
+    "options": [
+      "Runtime polymorphism",
+      "Memory allocation only",
+      "Template parsing",
+      "File compression"
+    ],
+    "answer": 0,
+    "explanation": "virtual enables dynamic dispatch through base references/pointers."
+  },
+  {
+    "id": 36,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from C++: What is a virtual function used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "virtual enables dynamic dispatch through base references/pointers."
+  },
+  {
+    "id": 37,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What does move semantics primarily reduce?",
+    "options": [
+      "Unnecessary copying",
+      "Compilation",
+      "Typing",
+      "Inheritance"
+    ],
+    "answer": 0,
+    "explanation": "Move semantics can transfer resources instead of copying them."
+  },
+  {
+    "id": 38,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a smart pointer designed to help manage?",
+    "options": [
+      "Dynamic object lifetime",
+      "CSS selectors",
+      "SQL rows",
+      "CPU registers"
+    ],
+    "answer": 0,
+    "explanation": "Smart pointers automate ownership/lifetime management."
+  },
+  {
+    "id": 39,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from C++: What is a smart pointer designed to help manage? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Smart pointers automate ownership/lifetime management."
+  },
+  {
+    "id": 40,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which feature allows the same function name with different parameters?",
+    "options": [
+      "Overloading",
+      "Casting",
+      "Linking",
+      "Inlining"
+    ],
+    "answer": 0,
+    "explanation": "Function overloading uses the same name with different signatures."
+  },
+  {
+    "id": 41,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which keyword creates an object dynamically?",
+    "options": [
+      "new",
+      "make",
+      "alloc",
+      "object"
+    ],
+    "answer": 0,
+    "explanation": "new allocates an object dynamically."
+  },
+  {
+    "id": 42,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from C++: Which keyword creates an object dynamically? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "new allocates an object dynamically."
+  },
+  {
+    "id": 43,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is RAII mainly about?",
+    "options": [
+      "Resource lifetime tied to object lifetime",
+      "Remote APIs",
+      "CSS rules",
+      "Database indexing"
+    ],
+    "answer": 0,
+    "explanation": "RAII manages resources through object lifetime."
+  },
+  {
+    "id": 44,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a virtual function used for?",
+    "options": [
+      "Runtime polymorphism",
+      "Memory allocation only",
+      "Template parsing",
+      "File compression"
+    ],
+    "answer": 0,
+    "explanation": "virtual enables dynamic dispatch through base references/pointers."
+  },
+  {
+    "id": 45,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from C++: What is a virtual function used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "virtual enables dynamic dispatch through base references/pointers."
+  },
+  {
+    "id": 46,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which keyword creates an object?",
+    "options": [
+      "new",
+      "class",
+      "object",
+      "create"
+    ],
+    "answer": 0,
+    "explanation": "new creates an object instance."
+  },
+  {
+    "id": 47,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which collection does not allow duplicate elements?",
+    "options": [
+      "List",
+      "Set",
+      "Queue",
+      "ArrayList"
+    ],
+    "answer": 1,
+    "explanation": "Set collections are designed for unique elements."
+  },
+  {
+    "id": 48,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Java: Which collection does not allow duplicate elements? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Set collections are designed for unique elements."
+  },
+  {
+    "id": 49,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is method overriding?",
+    "options": [
+      "Subclass provides a new implementation of an inherited method",
+      "Changing a variable type",
+      "Deleting a class",
+      "Calling a constructor twice"
+    ],
+    "answer": 0,
+    "explanation": "Overriding changes inherited behavior."
+  },
+  {
+    "id": 50,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does the JVM provide?",
+    "options": [
+      "A runtime environment for Java bytecode",
+      "A database",
+      "A CSS engine",
+      "A Git repository"
+    ],
+    "answer": 0,
+    "explanation": "The JVM executes Java bytecode."
+  },
+  {
+    "id": 51,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Java: What does the JVM provide? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "The JVM executes Java bytecode."
+  },
+  {
+    "id": 52,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why are interfaces useful?",
+    "options": [
+      "They define contracts without requiring one implementation",
+      "They store SQL data",
+      "They replace all classes",
+      "They prevent polymorphism"
+    ],
+    "answer": 0,
+    "explanation": "Interfaces define capabilities/contracts."
+  },
+  {
+    "id": 53,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is garbage collection for?",
+    "options": [
+      "Reclaiming unreachable objects",
+      "Compiling CSS",
+      "Creating threads only",
+      "Encrypting files"
+    ],
+    "answer": 0,
+    "explanation": "GC reclaims memory from unreachable objects."
+  },
+  {
+    "id": 54,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Java: What is garbage collection for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "GC reclaims memory from unreachable objects."
+  },
+  {
+    "id": 55,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which keyword creates an object?",
+    "options": [
+      "new",
+      "class",
+      "object",
+      "create"
+    ],
+    "answer": 0,
+    "explanation": "new creates an object instance."
+  },
+  {
+    "id": 56,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which collection does not allow duplicate elements?",
+    "options": [
+      "List",
+      "Set",
+      "Queue",
+      "ArrayList"
+    ],
+    "answer": 1,
+    "explanation": "Set collections are designed for unique elements."
+  },
+  {
+    "id": 57,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Java: Which collection does not allow duplicate elements? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Set collections are designed for unique elements."
+  },
+  {
+    "id": 58,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is method overriding?",
+    "options": [
+      "Subclass provides a new implementation of an inherited method",
+      "Changing a variable type",
+      "Deleting a class",
+      "Calling a constructor twice"
+    ],
+    "answer": 0,
+    "explanation": "Overriding changes inherited behavior."
+  },
+  {
+    "id": 59,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does the JVM provide?",
+    "options": [
+      "A runtime environment for Java bytecode",
+      "A database",
+      "A CSS engine",
+      "A Git repository"
+    ],
+    "answer": 0,
+    "explanation": "The JVM executes Java bytecode."
+  },
+  {
+    "id": 60,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Java: What does the JVM provide? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "The JVM executes Java bytecode."
+  },
+  {
+    "id": 61,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which keyword declares a block-scoped variable that can be reassigned?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "answer": 1,
+    "explanation": "let is block-scoped and can be reassigned."
+  },
+  {
+    "id": 62,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is JSON mainly used for?",
+    "options": [
+      "Data interchange",
+      "Image editing",
+      "CPU scheduling",
+      "CSS layout"
+    ],
+    "answer": 0,
+    "explanation": "JSON is a common text format for structured data."
+  },
+  {
+    "id": 63,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from JavaScript: What is JSON mainly used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "JSON is a common text format for structured data."
+  },
+  {
+    "id": 64,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does Promise represent?",
+    "options": [
+      "An eventual asynchronous result",
+      "A CSS rule",
+      "A database table",
+      "A loop"
+    ],
+    "answer": 0,
+    "explanation": "Promises represent future completion or failure."
+  },
+  {
+    "id": 65,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is event bubbling?",
+    "options": [
+      "An event propagating from a target toward ancestors",
+      "Sorting events alphabetically",
+      "Compiling JavaScript",
+      "Creating a promise"
+    ],
+    "answer": 0,
+    "explanation": "DOM events can bubble from target to ancestors."
+  },
+  {
+    "id": 66,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from JavaScript: What is event bubbling? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "DOM events can bubble from target to ancestors."
+  },
+  {
+    "id": 67,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a closure?",
+    "options": [
+      "A function retaining access to its lexical environment",
+      "A closed browser tab",
+      "A CSS selector",
+      "A database lock"
+    ],
+    "answer": 0,
+    "explanation": "Closures preserve access to surrounding lexical variables."
+  },
+  {
+    "id": 68,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is async/await useful?",
+    "options": [
+      "It makes Promise-based async code easier to read",
+      "It removes all errors",
+      "It replaces HTTP",
+      "It disables concurrency"
+    ],
+    "answer": 0,
+    "explanation": "async/await provides clearer syntax for Promise workflows."
+  },
+  {
+    "id": 69,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from JavaScript: Why is async/await useful? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "async/await provides clearer syntax for Promise workflows."
+  },
+  {
+    "id": 70,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which keyword declares a block-scoped variable that can be reassigned?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "answer": 1,
+    "explanation": "let is block-scoped and can be reassigned."
+  },
+  {
+    "id": 71,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is JSON mainly used for?",
+    "options": [
+      "Data interchange",
+      "Image editing",
+      "CPU scheduling",
+      "CSS layout"
+    ],
+    "answer": 0,
+    "explanation": "JSON is a common text format for structured data."
+  },
+  {
+    "id": 72,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from JavaScript: What is JSON mainly used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "JSON is a common text format for structured data."
+  },
+  {
+    "id": 73,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does Promise represent?",
+    "options": [
+      "An eventual asynchronous result",
+      "A CSS rule",
+      "A database table",
+      "A loop"
+    ],
+    "answer": 0,
+    "explanation": "Promises represent future completion or failure."
+  },
+  {
+    "id": 74,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is event bubbling?",
+    "options": [
+      "An event propagating from a target toward ancestors",
+      "Sorting events alphabetically",
+      "Compiling JavaScript",
+      "Creating a promise"
+    ],
+    "answer": 0,
+    "explanation": "DOM events can bubble from target to ancestors."
+  },
+  {
+    "id": 75,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from JavaScript: What is event bubbling? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "DOM events can bubble from target to ancestors."
+  },
+  {
+    "id": 76,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which HTML element creates a hyperlink?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": 0,
+    "explanation": "The anchor element creates links."
+  },
+  {
+    "id": 77,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "font-style",
+      "color",
+      "text-fill",
+      "foreground"
+    ],
+    "answer": 1,
+    "explanation": "color sets the foreground text color."
+  },
+  {
+    "id": 78,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from HTML/CSS: Which CSS property changes text color? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "color sets the foreground text color."
+  },
+  {
+    "id": 79,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does semantic HTML improve?",
+    "options": [
+      "Meaning, accessibility and structure",
+      "CPU speed",
+      "SQL joins",
+      "Python imports"
+    ],
+    "answer": 0,
+    "explanation": "Semantic elements communicate document meaning."
+  },
+  {
+    "id": 80,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is Flexbox mainly for?",
+    "options": [
+      "One-dimensional layout",
+      "Database design",
+      "Encryption",
+      "Memory allocation"
+    ],
+    "answer": 0,
+    "explanation": "Flexbox handles one-dimensional layout."
+  },
+  {
+    "id": 81,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from HTML/CSS: What is Flexbox mainly for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Flexbox handles one-dimensional layout."
+  },
+  {
+    "id": 82,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is CSS specificity used for?",
+    "options": [
+      "Resolving competing style rules",
+      "Compressing images",
+      "Running JavaScript",
+      "Connecting databases"
+    ],
+    "answer": 0,
+    "explanation": "Specificity helps determine which selector wins."
+  },
+  {
+    "id": 83,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is responsive design?",
+    "options": [
+      "Adapting layouts to different screen sizes",
+      "Making code run faster",
+      "Encrypting pages",
+      "Creating SQL indexes"
+    ],
+    "answer": 0,
+    "explanation": "Responsive design adapts UI to device dimensions."
+  },
+  {
+    "id": 84,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from HTML/CSS: What is responsive design? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Responsive design adapts UI to device dimensions."
+  },
+  {
+    "id": 85,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which HTML element creates a hyperlink?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": 0,
+    "explanation": "The anchor element creates links."
+  },
+  {
+    "id": 86,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which CSS property changes text color?",
+    "options": [
+      "font-style",
+      "color",
+      "text-fill",
+      "foreground"
+    ],
+    "answer": 1,
+    "explanation": "color sets the foreground text color."
+  },
+  {
+    "id": 87,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from HTML/CSS: Which CSS property changes text color? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "color sets the foreground text color."
+  },
+  {
+    "id": 88,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does semantic HTML improve?",
+    "options": [
+      "Meaning, accessibility and structure",
+      "CPU speed",
+      "SQL joins",
+      "Python imports"
+    ],
+    "answer": 0,
+    "explanation": "Semantic elements communicate document meaning."
+  },
+  {
+    "id": 89,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is Flexbox mainly for?",
+    "options": [
+      "One-dimensional layout",
+      "Database design",
+      "Encryption",
+      "Memory allocation"
+    ],
+    "answer": 0,
+    "explanation": "Flexbox handles one-dimensional layout."
+  },
+  {
+    "id": 90,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from HTML/CSS: What is Flexbox mainly for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Flexbox handles one-dimensional layout."
+  },
+  {
+    "id": 91,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which command retrieves rows?",
+    "options": [
+      "SELECT",
+      "PULL",
+      "GET",
+      "READ"
+    ],
+    "answer": 0,
+    "explanation": "SELECT queries data."
+  },
+  {
+    "id": 92,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which clause filters rows?",
+    "options": [
+      "WHERE",
+      "ORDER",
+      "GROUP",
+      "LIMITER"
+    ],
+    "answer": 0,
+    "explanation": "WHERE filters rows before grouping."
+  },
+  {
+    "id": 93,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from SQL: Which clause filters rows? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "WHERE filters rows before grouping."
+  },
+  {
+    "id": 94,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Which JOIN keeps matching rows from both tables?",
+    "options": [
+      "INNER JOIN",
+      "CROSS JOIN",
+      "FULL JOIN",
+      "UNION"
+    ],
+    "answer": 0,
+    "explanation": "INNER JOIN returns rows satisfying the join condition."
+  },
+  {
+    "id": 95,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why use GROUP BY?",
+    "options": [
+      "To aggregate rows by categories",
+      "To rename a database",
+      "To delete all rows",
+      "To create CSS"
+    ],
+    "answer": 0,
+    "explanation": "GROUP BY forms groups for aggregate calculations."
+  },
+  {
+    "id": 96,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from SQL: Why use GROUP BY? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "GROUP BY forms groups for aggregate calculations."
+  },
+  {
+    "id": 97,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What does an index usually improve?",
+    "options": [
+      "Read/search performance",
+      "Data correctness automatically",
+      "Network bandwidth",
+      "Source code formatting"
+    ],
+    "answer": 0,
+    "explanation": "Indexes can speed up lookups at storage/write cost."
+  },
+  {
+    "id": 98,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a transaction property in ACID?",
+    "options": [
+      "Atomicity",
+      "Asynchrony",
+      "Addressing",
+      "Animation"
+    ],
+    "answer": 0,
+    "explanation": "Atomicity is one of ACID's four properties."
+  },
+  {
+    "id": 99,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from SQL: What is a transaction property in ACID? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Atomicity is one of ACID's four properties."
+  },
+  {
+    "id": 100,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which command retrieves rows?",
+    "options": [
+      "SELECT",
+      "PULL",
+      "GET",
+      "READ"
+    ],
+    "answer": 0,
+    "explanation": "SELECT queries data."
+  },
+  {
+    "id": 101,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which clause filters rows?",
+    "options": [
+      "WHERE",
+      "ORDER",
+      "GROUP",
+      "LIMITER"
+    ],
+    "answer": 0,
+    "explanation": "WHERE filters rows before grouping."
+  },
+  {
+    "id": 102,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from SQL: Which clause filters rows? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "WHERE filters rows before grouping."
+  },
+  {
+    "id": 103,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Which JOIN keeps matching rows from both tables?",
+    "options": [
+      "INNER JOIN",
+      "CROSS JOIN",
+      "FULL JOIN",
+      "UNION"
+    ],
+    "answer": 0,
+    "explanation": "INNER JOIN returns rows satisfying the join condition."
+  },
+  {
+    "id": 104,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why use GROUP BY?",
+    "options": [
+      "To aggregate rows by categories",
+      "To rename a database",
+      "To delete all rows",
+      "To create CSS"
+    ],
+    "answer": 0,
+    "explanation": "GROUP BY forms groups for aggregate calculations."
+  },
+  {
+    "id": 105,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from SQL: Why use GROUP BY? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "GROUP BY forms groups for aggregate calculations."
+  },
+  {
+    "id": 106,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is a primary key?",
+    "options": [
+      "A unique row identifier",
+      "A duplicate field",
+      "A backup file",
+      "A query language"
+    ],
+    "answer": 0,
+    "explanation": "A primary key uniquely identifies rows."
+  },
+  {
+    "id": 107,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is normalization mainly intended to reduce?",
+    "options": [
+      "Redundancy and anomalies",
+      "CPU temperature",
+      "Network latency",
+      "UI size"
+    ],
+    "answer": 0,
+    "explanation": "Normalization reduces redundant data and update anomalies."
+  },
+  {
+    "id": 108,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from DBMS: What is normalization mainly intended to reduce? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Normalization reduces redundant data and update anomalies."
+  },
+  {
+    "id": 109,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does a foreign key represent?",
+    "options": [
+      "A relationship to a key in another table",
+      "A password",
+      "A backup",
+      "A query"
+    ],
+    "answer": 0,
+    "explanation": "Foreign keys enforce relationships between tables."
+  },
+  {
+    "id": 110,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a database transaction?",
+    "options": [
+      "A logical unit of work",
+      "A CSS component",
+      "A compiler phase",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "Transactions group related database operations."
+  },
+  {
+    "id": 111,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from DBMS: What is a database transaction? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Transactions group related database operations."
+  },
+  {
+    "id": 112,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is serializability important?",
+    "options": [
+      "It helps concurrent schedules preserve correct behavior",
+      "It compresses tables",
+      "It deletes duplicates automatically",
+      "It changes SQL syntax"
+    ],
+    "answer": 0,
+    "explanation": "Serializability is a correctness goal for concurrent transactions."
+  },
+  {
+    "id": 113,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a deadlock in DBMS?",
+    "options": [
+      "Transactions waiting indefinitely for each other's locks",
+      "A deleted table",
+      "A slow SELECT only",
+      "A network timeout"
+    ],
+    "answer": 0,
+    "explanation": "Deadlock involves cyclic waiting among transactions."
+  },
+  {
+    "id": 114,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from DBMS: What is a deadlock in DBMS? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Deadlock involves cyclic waiting among transactions."
+  },
+  {
+    "id": 115,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is a primary key?",
+    "options": [
+      "A unique row identifier",
+      "A duplicate field",
+      "A backup file",
+      "A query language"
+    ],
+    "answer": 0,
+    "explanation": "A primary key uniquely identifies rows."
+  },
+  {
+    "id": 116,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is normalization mainly intended to reduce?",
+    "options": [
+      "Redundancy and anomalies",
+      "CPU temperature",
+      "Network latency",
+      "UI size"
+    ],
+    "answer": 0,
+    "explanation": "Normalization reduces redundant data and update anomalies."
+  },
+  {
+    "id": 117,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from DBMS: What is normalization mainly intended to reduce? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Normalization reduces redundant data and update anomalies."
+  },
+  {
+    "id": 118,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does a foreign key represent?",
+    "options": [
+      "A relationship to a key in another table",
+      "A password",
+      "A backup",
+      "A query"
+    ],
+    "answer": 0,
+    "explanation": "Foreign keys enforce relationships between tables."
+  },
+  {
+    "id": 119,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a database transaction?",
+    "options": [
+      "A logical unit of work",
+      "A CSS component",
+      "A compiler phase",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "Transactions group related database operations."
+  },
+  {
+    "id": 120,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from DBMS: What is a database transaction? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Transactions group related database operations."
+  },
+  {
+    "id": 121,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "A stack follows which order?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Random",
+      "Priority only"
+    ],
+    "answer": 1,
+    "explanation": "Stacks are Last-In First-Out."
+  },
+  {
+    "id": 122,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "A queue follows which order?",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Random",
+      "Depth-first"
+    ],
+    "answer": 1,
+    "explanation": "Queues are First-In First-Out."
+  },
+  {
+    "id": 123,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Structures: A queue follows which order? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Queues are First-In First-Out."
+  },
+  {
+    "id": 124,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Which structure is ideal for key lookup by hash?",
+    "options": [
+      "Hash table",
+      "Stack",
+      "Queue",
+      "Heap only"
+    ],
+    "answer": 0,
+    "explanation": "Hash tables support average constant-time lookup."
+  },
+  {
+    "id": 125,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a balanced BST useful for?",
+    "options": [
+      "Ordered search operations",
+      "Storing only strings",
+      "Rendering pages",
+      "Network routing only"
+    ],
+    "answer": 0,
+    "explanation": "Balanced BSTs support efficient ordered operations."
+  },
+  {
+    "id": 126,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Structures: What is a balanced BST useful for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Balanced BSTs support efficient ordered operations."
+  },
+  {
+    "id": 127,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What does a heap efficiently provide?",
+    "options": [
+      "Access to minimum/maximum element",
+      "Sorted iteration always",
+      "Constant-time arbitrary search",
+      "Database normalization"
+    ],
+    "answer": 0,
+    "explanation": "A heap exposes min/max efficiently depending on heap type."
+  },
+  {
+    "id": 128,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why use a graph adjacency list?",
+    "options": [
+      "It is space-efficient for sparse graphs",
+      "It sorts all vertices",
+      "It prevents cycles",
+      "It replaces BFS"
+    ],
+    "answer": 0,
+    "explanation": "Adjacency lists are efficient for sparse graphs."
+  },
+  {
+    "id": 129,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Structures: Why use a graph adjacency list? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Adjacency lists are efficient for sparse graphs."
+  },
+  {
+    "id": 130,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "A stack follows which order?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Random",
+      "Priority only"
+    ],
+    "answer": 1,
+    "explanation": "Stacks are Last-In First-Out."
+  },
+  {
+    "id": 131,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "A queue follows which order?",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Random",
+      "Depth-first"
+    ],
+    "answer": 1,
+    "explanation": "Queues are First-In First-Out."
+  },
+  {
+    "id": 132,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Structures: A queue follows which order? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Queues are First-In First-Out."
+  },
+  {
+    "id": 133,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Which structure is ideal for key lookup by hash?",
+    "options": [
+      "Hash table",
+      "Stack",
+      "Queue",
+      "Heap only"
+    ],
+    "answer": 0,
+    "explanation": "Hash tables support average constant-time lookup."
+  },
+  {
+    "id": 134,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a balanced BST useful for?",
+    "options": [
+      "Ordered search operations",
+      "Storing only strings",
+      "Rendering pages",
+      "Network routing only"
+    ],
+    "answer": 0,
+    "explanation": "Balanced BSTs support efficient ordered operations."
+  },
+  {
+    "id": 135,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Structures: What is a balanced BST useful for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Balanced BSTs support efficient ordered operations."
+  },
+  {
+    "id": 136,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Binary search requires what kind of data?",
+    "options": [
+      "Sorted sequence",
+      "Encrypted sequence",
+      "Random graph",
+      "Database only"
+    ],
+    "answer": 0,
+    "explanation": "Binary search relies on sorted order."
+  },
+  {
+    "id": 137,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is the average time complexity of quicksort?",
+    "options": [
+      "O(n log n)",
+      "O(n^2) always",
+      "O(1)",
+      "O(log n)"
+    ],
+    "answer": 0,
+    "explanation": "Quicksort is O(n log n) on average."
+  },
+  {
+    "id": 138,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Algorithms: What is the average time complexity of quicksort? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Quicksort is O(n log n) on average."
+  },
+  {
+    "id": 139,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does BFS use to explore level by level?",
+    "options": [
+      "Queue",
+      "Stack only",
+      "Heap only",
+      "Hash only"
+    ],
+    "answer": 0,
+    "explanation": "BFS uses a queue."
+  },
+  {
+    "id": 140,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does dynamic programming exploit?",
+    "options": [
+      "Overlapping subproblems and optimal substructure",
+      "Only recursion",
+      "Only sorting",
+      "Only graphs"
+    ],
+    "answer": 0,
+    "explanation": "DP stores results of overlapping subproblems."
+  },
+  {
+    "id": 141,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Algorithms: What does dynamic programming exploit? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "DP stores results of overlapping subproblems."
+  },
+  {
+    "id": 142,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is Big-O used to describe?",
+    "options": [
+      "Asymptotic growth of resource usage",
+      "Exact runtime on every machine",
+      "Variable names",
+      "UI design"
+    ],
+    "answer": 0,
+    "explanation": "Big-O describes asymptotic upper growth."
+  },
+  {
+    "id": 143,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why can Dijkstra fail with negative edges?",
+    "options": [
+      "Its greedy assumption can become invalid",
+      "It needs a queue",
+      "It cannot use graphs",
+      "It only works on trees"
+    ],
+    "answer": 0,
+    "explanation": "Negative edges can invalidate Dijkstra's greedy choices."
+  },
+  {
+    "id": 144,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Algorithms: Why can Dijkstra fail with negative edges? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Negative edges can invalidate Dijkstra's greedy choices."
+  },
+  {
+    "id": 145,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Binary search requires what kind of data?",
+    "options": [
+      "Sorted sequence",
+      "Encrypted sequence",
+      "Random graph",
+      "Database only"
+    ],
+    "answer": 0,
+    "explanation": "Binary search relies on sorted order."
+  },
+  {
+    "id": 146,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is the average time complexity of quicksort?",
+    "options": [
+      "O(n log n)",
+      "O(n^2) always",
+      "O(1)",
+      "O(log n)"
+    ],
+    "answer": 0,
+    "explanation": "Quicksort is O(n log n) on average."
+  },
+  {
+    "id": 147,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Algorithms: What is the average time complexity of quicksort? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Quicksort is O(n log n) on average."
+  },
+  {
+    "id": 148,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does BFS use to explore level by level?",
+    "options": [
+      "Queue",
+      "Stack only",
+      "Heap only",
+      "Hash only"
+    ],
+    "answer": 0,
+    "explanation": "BFS uses a queue."
+  },
+  {
+    "id": 149,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does dynamic programming exploit?",
+    "options": [
+      "Overlapping subproblems and optimal substructure",
+      "Only recursion",
+      "Only sorting",
+      "Only graphs"
+    ],
+    "answer": 0,
+    "explanation": "DP stores results of overlapping subproblems."
+  },
+  {
+    "id": 150,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Algorithms: What does dynamic programming exploit? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "DP stores results of overlapping subproblems."
+  },
+  {
+    "id": 151,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is encapsulation?",
+    "options": [
+      "Bundling data with controlled operations",
+      "Sorting arrays",
+      "Encrypting databases",
+      "Deleting classes"
+    ],
+    "answer": 0,
+    "explanation": "Encapsulation groups state and behavior with controlled access."
+  },
+  {
+    "id": 152,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is inheritance?",
+    "options": [
+      "Deriving a class from another class",
+      "Copying a database",
+      "Calling a function twice",
+      "Sorting objects"
+    ],
+    "answer": 0,
+    "explanation": "Inheritance reuses/extends class behavior."
+  },
+  {
+    "id": 153,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from OOP: What is inheritance? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Inheritance reuses/extends class behavior."
+  },
+  {
+    "id": 154,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is polymorphism?",
+    "options": [
+      "One interface, multiple implementations",
+      "Only multiple variables",
+      "A database key",
+      "A compiler warning"
+    ],
+    "answer": 0,
+    "explanation": "Polymorphism allows interchangeable implementations."
+  },
+  {
+    "id": 155,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why prefer composition sometimes?",
+    "options": [
+      "It can reduce tight coupling and rigid hierarchies",
+      "It prevents reuse",
+      "It removes objects",
+      "It disables testing"
+    ],
+    "answer": 0,
+    "explanation": "Composition often provides flexible relationships."
+  },
+  {
+    "id": 156,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from OOP: Why prefer composition sometimes? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Composition often provides flexible relationships."
+  },
+  {
+    "id": 157,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is dependency inversion about?",
+    "options": [
+      "High-level policy depending on abstractions",
+      "Using more global variables",
+      "Avoiding interfaces",
+      "Disabling modules"
+    ],
+    "answer": 0,
+    "explanation": "Dependency inversion favors abstractions over concrete details."
+  },
+  {
+    "id": 158,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is Liskov substitution concerned with?",
+    "options": [
+      "Subtypes remaining substitutable for base types",
+      "Database transactions",
+      "CSS inheritance",
+      "Sorting speed"
+    ],
+    "answer": 0,
+    "explanation": "Subtypes should preserve expected base-type behavior."
+  },
+  {
+    "id": 159,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from OOP: What is Liskov substitution concerned with? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Subtypes should preserve expected base-type behavior."
+  },
+  {
+    "id": 160,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is encapsulation?",
+    "options": [
+      "Bundling data with controlled operations",
+      "Sorting arrays",
+      "Encrypting databases",
+      "Deleting classes"
+    ],
+    "answer": 0,
+    "explanation": "Encapsulation groups state and behavior with controlled access."
+  },
+  {
+    "id": 161,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is inheritance?",
+    "options": [
+      "Deriving a class from another class",
+      "Copying a database",
+      "Calling a function twice",
+      "Sorting objects"
+    ],
+    "answer": 0,
+    "explanation": "Inheritance reuses/extends class behavior."
+  },
+  {
+    "id": 162,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from OOP: What is inheritance? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Inheritance reuses/extends class behavior."
+  },
+  {
+    "id": 163,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is polymorphism?",
+    "options": [
+      "One interface, multiple implementations",
+      "Only multiple variables",
+      "A database key",
+      "A compiler warning"
+    ],
+    "answer": 0,
+    "explanation": "Polymorphism allows interchangeable implementations."
+  },
+  {
+    "id": 164,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why prefer composition sometimes?",
+    "options": [
+      "It can reduce tight coupling and rigid hierarchies",
+      "It prevents reuse",
+      "It removes objects",
+      "It disables testing"
+    ],
+    "answer": 0,
+    "explanation": "Composition often provides flexible relationships."
+  },
+  {
+    "id": 165,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from OOP: Why prefer composition sometimes? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Composition often provides flexible relationships."
+  },
+  {
+    "id": 166,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does an operating system manage?",
+    "options": [
+      "Hardware and system resources",
+      "Only web pages",
+      "Only databases",
+      "Only source code"
+    ],
+    "answer": 0,
+    "explanation": "OS manages CPU, memory, devices, files and processes."
+  },
+  {
+    "id": 167,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is a process?",
+    "options": [
+      "A program in execution",
+      "A source file",
+      "A network cable",
+      "A database index"
+    ],
+    "answer": 0,
+    "explanation": "A process is a running program instance."
+  },
+  {
+    "id": 168,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Operating Systems: What is a process? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "A process is a running program instance."
+  },
+  {
+    "id": 169,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is virtual memory?",
+    "options": [
+      "A mechanism that uses storage to extend apparent memory",
+      "A second CPU",
+      "A database cache only",
+      "A compiler"
+    ],
+    "answer": 0,
+    "explanation": "Virtual memory provides an abstraction beyond physical RAM."
+  },
+  {
+    "id": 170,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a context switch?",
+    "options": [
+      "Changing CPU execution from one process/thread to another",
+      "Changing files",
+      "Switching programming languages",
+      "Restarting a router"
+    ],
+    "answer": 0,
+    "explanation": "The OS saves/restores execution state when switching."
+  },
+  {
+    "id": 171,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Operating Systems: What is a context switch? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "The OS saves/restores execution state when switching."
+  },
+  {
+    "id": 172,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a page fault?",
+    "options": [
+      "A referenced page is not currently in physical memory",
+      "A syntax error",
+      "A network packet loss",
+      "A database conflict"
+    ],
+    "answer": 0,
+    "explanation": "A page fault occurs when a needed page is absent from RAM."
+  },
+  {
+    "id": 173,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is starvation?",
+    "options": [
+      "A process waits indefinitely for resources/CPU",
+      "A process crashes immediately",
+      "Memory becomes read-only",
+      "A file is deleted"
+    ],
+    "answer": 0,
+    "explanation": "Starvation is indefinite postponement."
+  },
+  {
+    "id": 174,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Operating Systems: What is starvation? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Starvation is indefinite postponement."
+  },
+  {
+    "id": 175,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does an operating system manage?",
+    "options": [
+      "Hardware and system resources",
+      "Only web pages",
+      "Only databases",
+      "Only source code"
+    ],
+    "answer": 0,
+    "explanation": "OS manages CPU, memory, devices, files and processes."
+  },
+  {
+    "id": 176,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is a process?",
+    "options": [
+      "A program in execution",
+      "A source file",
+      "A network cable",
+      "A database index"
+    ],
+    "answer": 0,
+    "explanation": "A process is a running program instance."
+  },
+  {
+    "id": 177,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Operating Systems: What is a process? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "A process is a running program instance."
+  },
+  {
+    "id": 178,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is virtual memory?",
+    "options": [
+      "A mechanism that uses storage to extend apparent memory",
+      "A second CPU",
+      "A database cache only",
+      "A compiler"
+    ],
+    "answer": 0,
+    "explanation": "Virtual memory provides an abstraction beyond physical RAM."
+  },
+  {
+    "id": 179,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a context switch?",
+    "options": [
+      "Changing CPU execution from one process/thread to another",
+      "Changing files",
+      "Switching programming languages",
+      "Restarting a router"
+    ],
+    "answer": 0,
+    "explanation": "The OS saves/restores execution state when switching."
+  },
+  {
+    "id": 180,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Operating Systems: What is a context switch? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "The OS saves/restores execution state when switching."
+  },
+  {
+    "id": 181,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which protocol reliably transfers web pages in traditional HTTP/1.1?",
+    "options": [
+      "TCP",
+      "UDP",
+      "ARP",
+      "ICMP"
+    ],
+    "answer": 0,
+    "explanation": "HTTP traditionally uses TCP as transport."
+  },
+  {
+    "id": 182,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does IP primarily provide?",
+    "options": [
+      "Logical addressing and routing",
+      "Reliable delivery",
+      "HTML rendering",
+      "Database storage"
+    ],
+    "answer": 0,
+    "explanation": "IP handles addressing and routing."
+  },
+  {
+    "id": 183,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Networks: What does IP primarily provide? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "IP handles addressing and routing."
+  },
+  {
+    "id": 184,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is DNS used for?",
+    "options": [
+      "Name-to-IP resolution",
+      "File compression",
+      "CPU scheduling",
+      "Encryption only"
+    ],
+    "answer": 0,
+    "explanation": "DNS resolves domain names to network addresses."
+  },
+  {
+    "id": 185,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a subnet mask used for?",
+    "options": [
+      "Separating network and host portions of an IP address",
+      "Encrypting packets",
+      "Choosing a browser",
+      "Creating databases"
+    ],
+    "answer": 0,
+    "explanation": "Masks define network versus host bits."
+  },
+  {
+    "id": 186,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Networks: What is a subnet mask used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Masks define network versus host bits."
+  },
+  {
+    "id": 187,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is TLS important?",
+    "options": [
+      "It protects data in transit with encryption and authentication",
+      "It replaces DNS",
+      "It compresses HTML",
+      "It creates IP addresses"
+    ],
+    "answer": 0,
+    "explanation": "TLS provides confidentiality, integrity and authentication mechanisms."
+  },
+  {
+    "id": 188,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is a congestion-control goal?",
+    "options": [
+      "Avoid overwhelming the network",
+      "Increase packet loss",
+      "Disable routing",
+      "Replace IP"
+    ],
+    "answer": 0,
+    "explanation": "Congestion control manages sending rate to protect the network."
+  },
+  {
+    "id": 189,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Networks: What is a congestion-control goal? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Congestion control manages sending rate to protect the network."
+  },
+  {
+    "id": 190,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which protocol reliably transfers web pages in traditional HTTP/1.1?",
+    "options": [
+      "TCP",
+      "UDP",
+      "ARP",
+      "ICMP"
+    ],
+    "answer": 0,
+    "explanation": "HTTP traditionally uses TCP as transport."
+  },
+  {
+    "id": 191,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does IP primarily provide?",
+    "options": [
+      "Logical addressing and routing",
+      "Reliable delivery",
+      "HTML rendering",
+      "Database storage"
+    ],
+    "answer": 0,
+    "explanation": "IP handles addressing and routing."
+  },
+  {
+    "id": 192,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Networks: What does IP primarily provide? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "IP handles addressing and routing."
+  },
+  {
+    "id": 193,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is DNS used for?",
+    "options": [
+      "Name-to-IP resolution",
+      "File compression",
+      "CPU scheduling",
+      "Encryption only"
+    ],
+    "answer": 0,
+    "explanation": "DNS resolves domain names to network addresses."
+  },
+  {
+    "id": 194,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a subnet mask used for?",
+    "options": [
+      "Separating network and host portions of an IP address",
+      "Encrypting packets",
+      "Choosing a browser",
+      "Creating databases"
+    ],
+    "answer": 0,
+    "explanation": "Masks define network versus host bits."
+  },
+  {
+    "id": 195,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Networks: What is a subnet mask used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Masks define network versus host bits."
+  },
+  {
+    "id": 196,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is a requirement?",
+    "options": [
+      "A needed capability or constraint",
+      "A compiler error",
+      "A database row",
+      "A CSS class"
+    ],
+    "answer": 0,
+    "explanation": "Requirements describe needed behavior or constraints."
+  },
+  {
+    "id": 197,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is unit testing?",
+    "options": [
+      "Testing a small unit of code in isolation",
+      "Testing an entire company",
+      "Testing only networks",
+      "Deploying code"
+    ],
+    "answer": 0,
+    "explanation": "Unit tests focus on small units."
+  },
+  {
+    "id": 198,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Software Engineering: What is unit testing? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Unit tests focus on small units."
+  },
+  {
+    "id": 199,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is version control useful for?",
+    "options": [
+      "Tracking code changes and collaboration",
+      "Running SQL only",
+      "Compiling HTML",
+      "Managing RAM"
+    ],
+    "answer": 0,
+    "explanation": "Version control records history and supports collaboration."
+  },
+  {
+    "id": 200,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why use CI?",
+    "options": [
+      "To automatically build and test changes",
+      "To replace developers",
+      "To encrypt databases",
+      "To design UIs"
+    ],
+    "answer": 0,
+    "explanation": "Continuous integration catches integration issues early."
+  },
+  {
+    "id": 201,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Software Engineering: Why use CI? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Continuous integration catches integration issues early."
+  },
+  {
+    "id": 202,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is refactoring?",
+    "options": [
+      "Improving internal code structure without changing intended behavior",
+      "Adding random features",
+      "Deleting tests",
+      "Changing requirements"
+    ],
+    "answer": 0,
+    "explanation": "Refactoring improves maintainability while preserving behavior."
+  },
+  {
+    "id": 203,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is technical debt?",
+    "options": [
+      "Future cost created by expedient design/implementation choices",
+      "A bank loan for software",
+      "A compiler feature",
+      "A network protocol"
+    ],
+    "answer": 0,
+    "explanation": "Technical debt represents future maintenance cost."
+  },
+  {
+    "id": 204,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Software Engineering: What is technical debt? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Technical debt represents future maintenance cost."
+  },
+  {
+    "id": 205,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is a requirement?",
+    "options": [
+      "A needed capability or constraint",
+      "A compiler error",
+      "A database row",
+      "A CSS class"
+    ],
+    "answer": 0,
+    "explanation": "Requirements describe needed behavior or constraints."
+  },
+  {
+    "id": 206,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is unit testing?",
+    "options": [
+      "Testing a small unit of code in isolation",
+      "Testing an entire company",
+      "Testing only networks",
+      "Deploying code"
+    ],
+    "answer": 0,
+    "explanation": "Unit tests focus on small units."
+  },
+  {
+    "id": 207,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Software Engineering: What is unit testing? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Unit tests focus on small units."
+  },
+  {
+    "id": 208,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is version control useful for?",
+    "options": [
+      "Tracking code changes and collaboration",
+      "Running SQL only",
+      "Compiling HTML",
+      "Managing RAM"
+    ],
+    "answer": 0,
+    "explanation": "Version control records history and supports collaboration."
+  },
+  {
+    "id": 209,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why use CI?",
+    "options": [
+      "To automatically build and test changes",
+      "To replace developers",
+      "To encrypt databases",
+      "To design UIs"
+    ],
+    "answer": 0,
+    "explanation": "Continuous integration catches integration issues early."
+  },
+  {
+    "id": 210,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Software Engineering: Why use CI? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Continuous integration catches integration issues early."
+  },
+  {
+    "id": 211,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does the CPU execute?",
+    "options": [
+      "Instructions",
+      "CSS",
+      "SQL tables",
+      "Web pages"
+    ],
+    "answer": 0,
+    "explanation": "The CPU executes machine instructions."
+  },
+  {
+    "id": 212,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is RAM?",
+    "options": [
+      "Volatile main memory",
+      "Permanent CPU firmware only",
+      "A network protocol",
+      "A compiler"
+    ],
+    "answer": 0,
+    "explanation": "RAM is volatile main memory."
+  },
+  {
+    "id": 213,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Organization: What is RAM? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "RAM is volatile main memory."
+  },
+  {
+    "id": 214,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does a cache do?",
+    "options": [
+      "Stores frequently used data closer to the CPU",
+      "Deletes memory",
+      "Creates networks",
+      "Compiles code"
+    ],
+    "answer": 0,
+    "explanation": "Caches reduce average access latency."
+  },
+  {
+    "id": 215,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is pipelining?",
+    "options": [
+      "Overlapping instruction stages",
+      "Encrypting instructions",
+      "Deleting registers",
+      "Running databases"
+    ],
+    "answer": 0,
+    "explanation": "Pipelining overlaps stages of multiple instructions."
+  },
+  {
+    "id": 216,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Organization: What is pipelining? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Pipelining overlaps stages of multiple instructions."
+  },
+  {
+    "id": 217,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is locality important to caches?",
+    "options": [
+      "Programs often reuse nearby or recently used data",
+      "It makes networks wireless",
+      "It removes RAM",
+      "It prevents branching"
+    ],
+    "answer": 0,
+    "explanation": "Temporal and spatial locality make caching effective."
+  },
+  {
+    "id": 218,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is an ISA?",
+    "options": [
+      "Instruction Set Architecture",
+      "Internet Security Address",
+      "Internal SQL Algorithm",
+      "Image Style API"
+    ],
+    "answer": 0,
+    "explanation": "ISA defines the programmer-visible instruction set and behavior."
+  },
+  {
+    "id": 219,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Organization: What is an ISA? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "ISA defines the programmer-visible instruction set and behavior."
+  },
+  {
+    "id": 220,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does the CPU execute?",
+    "options": [
+      "Instructions",
+      "CSS",
+      "SQL tables",
+      "Web pages"
+    ],
+    "answer": 0,
+    "explanation": "The CPU executes machine instructions."
+  },
+  {
+    "id": 221,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is RAM?",
+    "options": [
+      "Volatile main memory",
+      "Permanent CPU firmware only",
+      "A network protocol",
+      "A compiler"
+    ],
+    "answer": 0,
+    "explanation": "RAM is volatile main memory."
+  },
+  {
+    "id": 222,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Organization: What is RAM? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "RAM is volatile main memory."
+  },
+  {
+    "id": 223,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does a cache do?",
+    "options": [
+      "Stores frequently used data closer to the CPU",
+      "Deletes memory",
+      "Creates networks",
+      "Compiles code"
+    ],
+    "answer": 0,
+    "explanation": "Caches reduce average access latency."
+  },
+  {
+    "id": 224,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is pipelining?",
+    "options": [
+      "Overlapping instruction stages",
+      "Encrypting instructions",
+      "Deleting registers",
+      "Running databases"
+    ],
+    "answer": 0,
+    "explanation": "Pipelining overlaps stages of multiple instructions."
+  },
+  {
+    "id": 225,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Computer Organization: What is pipelining? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Pipelining overlaps stages of multiple instructions."
+  },
+  {
+    "id": 226,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does lexical analysis produce?",
+    "options": [
+      "Tokens",
+      "Machine RAM",
+      "SQL rows",
+      "Network packets"
+    ],
+    "answer": 0,
+    "explanation": "Lexers convert source text into tokens."
+  },
+  {
+    "id": 227,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does parsing check?",
+    "options": [
+      "Syntactic structure",
+      "CPU temperature",
+      "Network speed",
+      "Database size"
+    ],
+    "answer": 0,
+    "explanation": "Parsing builds/checks syntactic structure."
+  },
+  {
+    "id": 228,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Compiler Design: What does parsing check? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Parsing builds/checks syntactic structure."
+  },
+  {
+    "id": 229,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is an AST?",
+    "options": [
+      "Abstract Syntax Tree",
+      "Advanced Storage Table",
+      "Array Search Technique",
+      "Application Security Token"
+    ],
+    "answer": 0,
+    "explanation": "AST represents source syntax structurally."
+  },
+  {
+    "id": 230,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is semantic analysis concerned with?",
+    "options": [
+      "Meaning and type-related correctness",
+      "Only characters",
+      "Only CPU instructions",
+      "CSS styling"
+    ],
+    "answer": 0,
+    "explanation": "Semantic analysis checks meaning, names and types."
+  },
+  {
+    "id": 231,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Compiler Design: What is semantic analysis concerned with? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Semantic analysis checks meaning, names and types."
+  },
+  {
+    "id": 232,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is intermediate representation?",
+    "options": [
+      "A compiler-internal form between source and target",
+      "A database backup",
+      "A network packet",
+      "A UI template"
+    ],
+    "answer": 0,
+    "explanation": "IR helps optimization and target generation."
+  },
+  {
+    "id": 233,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why optimize code?",
+    "options": [
+      "To improve performance/resource use while preserving behavior",
+      "To change requirements",
+      "To remove syntax",
+      "To avoid testing"
+    ],
+    "answer": 0,
+    "explanation": "Optimization seeks better generated code without changing semantics."
+  },
+  {
+    "id": 234,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Compiler Design: Why optimize code? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Optimization seeks better generated code without changing semantics."
+  },
+  {
+    "id": 235,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does lexical analysis produce?",
+    "options": [
+      "Tokens",
+      "Machine RAM",
+      "SQL rows",
+      "Network packets"
+    ],
+    "answer": 0,
+    "explanation": "Lexers convert source text into tokens."
+  },
+  {
+    "id": 236,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does parsing check?",
+    "options": [
+      "Syntactic structure",
+      "CPU temperature",
+      "Network speed",
+      "Database size"
+    ],
+    "answer": 0,
+    "explanation": "Parsing builds/checks syntactic structure."
+  },
+  {
+    "id": 237,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Compiler Design: What does parsing check? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Parsing builds/checks syntactic structure."
+  },
+  {
+    "id": 238,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is an AST?",
+    "options": [
+      "Abstract Syntax Tree",
+      "Advanced Storage Table",
+      "Array Search Technique",
+      "Application Security Token"
+    ],
+    "answer": 0,
+    "explanation": "AST represents source syntax structurally."
+  },
+  {
+    "id": 239,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is semantic analysis concerned with?",
+    "options": [
+      "Meaning and type-related correctness",
+      "Only characters",
+      "Only CPU instructions",
+      "CSS styling"
+    ],
+    "answer": 0,
+    "explanation": "Semantic analysis checks meaning, names and types."
+  },
+  {
+    "id": 240,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Compiler Design: What is semantic analysis concerned with? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Semantic analysis checks meaning, names and types."
+  },
+  {
+    "id": 241,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is an intelligent agent?",
+    "options": [
+      "A system that perceives and acts toward goals",
+      "A database row",
+      "A CSS rule",
+      "A compiler token"
+    ],
+    "answer": 0,
+    "explanation": "Agents perceive environments and act toward objectives."
+  },
+  {
+    "id": 242,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is a heuristic?",
+    "options": [
+      "A rule/estimate that guides search",
+      "A database key",
+      "A memory address",
+      "A CSS selector"
+    ],
+    "answer": 0,
+    "explanation": "Heuristics estimate promising choices."
+  },
+  {
+    "id": 243,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Artificial Intelligence: What is a heuristic? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Heuristics estimate promising choices."
+  },
+  {
+    "id": 244,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a state space?",
+    "options": [
+      "The set of possible states in a problem",
+      "A programming language",
+      "A database schema",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "State space contains possible configurations."
+  },
+  {
+    "id": 245,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is minimax used for?",
+    "options": [
+      "Adversarial decision making",
+      "Image compression",
+      "Database joins",
+      "Sorting strings"
+    ],
+    "answer": 0,
+    "explanation": "Minimax is used in two-player zero-sum style games."
+  },
+  {
+    "id": 246,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Artificial Intelligence: What is minimax used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Minimax is used in two-player zero-sum style games."
+  },
+  {
+    "id": 247,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is informed search?",
+    "options": [
+      "Search using additional problem-specific knowledge",
+      "Search without any rules",
+      "Only random search",
+      "Only database search"
+    ],
+    "answer": 0,
+    "explanation": "Informed search uses heuristics or domain knowledge."
+  },
+  {
+    "id": 248,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why is A* optimal under common conditions?",
+    "options": [
+      "With admissible/consistent heuristics, it preserves optimal path selection",
+      "It never uses a heuristic",
+      "It ignores costs",
+      "It only searches one node"
+    ],
+    "answer": 0,
+    "explanation": "A* can be optimal with appropriate heuristic conditions."
+  },
+  {
+    "id": 249,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Artificial Intelligence: Why is A* optimal under common conditions? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "A* can be optimal with appropriate heuristic conditions."
+  },
+  {
+    "id": 250,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is an intelligent agent?",
+    "options": [
+      "A system that perceives and acts toward goals",
+      "A database row",
+      "A CSS rule",
+      "A compiler token"
+    ],
+    "answer": 0,
+    "explanation": "Agents perceive environments and act toward objectives."
+  },
+  {
+    "id": 251,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is a heuristic?",
+    "options": [
+      "A rule/estimate that guides search",
+      "A database key",
+      "A memory address",
+      "A CSS selector"
+    ],
+    "answer": 0,
+    "explanation": "Heuristics estimate promising choices."
+  },
+  {
+    "id": 252,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Artificial Intelligence: What is a heuristic? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Heuristics estimate promising choices."
+  },
+  {
+    "id": 253,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a state space?",
+    "options": [
+      "The set of possible states in a problem",
+      "A programming language",
+      "A database schema",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "State space contains possible configurations."
+  },
+  {
+    "id": 254,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is minimax used for?",
+    "options": [
+      "Adversarial decision making",
+      "Image compression",
+      "Database joins",
+      "Sorting strings"
+    ],
+    "answer": 0,
+    "explanation": "Minimax is used in two-player zero-sum style games."
+  },
+  {
+    "id": 255,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Artificial Intelligence: What is minimax used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Minimax is used in two-player zero-sum style games."
+  },
+  {
+    "id": 256,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is supervised learning?",
+    "options": [
+      "Learning from labeled examples",
+      "Learning without data",
+      "Only clustering",
+      "Only rule coding"
+    ],
+    "answer": 0,
+    "explanation": "Supervised methods learn mappings from labeled data."
+  },
+  {
+    "id": 257,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is overfitting?",
+    "options": [
+      "Good training performance but poor generalization",
+      "Poor training and test performance always",
+      "No model training",
+      "Only missing data"
+    ],
+    "answer": 0,
+    "explanation": "Overfitting captures training-specific patterns that do not generalize."
+  },
+  {
+    "id": 258,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Machine Learning: What is overfitting? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Overfitting captures training-specific patterns that do not generalize."
+  },
+  {
+    "id": 259,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a validation set used for?",
+    "options": [
+      "Model selection and tuning",
+      "Final reporting only",
+      "Replacing training data",
+      "Creating databases"
+    ],
+    "answer": 0,
+    "explanation": "Validation helps choose hyperparameters/models."
+  },
+  {
+    "id": 260,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why scale features?",
+    "options": [
+      "Some algorithms are sensitive to feature magnitudes",
+      "It always improves accuracy",
+      "It removes labels",
+      "It creates neural networks"
+    ],
+    "answer": 0,
+    "explanation": "Scaling can make distance/gradient-based methods behave better."
+  },
+  {
+    "id": 261,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Machine Learning: Why scale features? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Scaling can make distance/gradient-based methods behave better."
+  },
+  {
+    "id": 262,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is regularization?",
+    "options": [
+      "A method that penalizes overly complex models",
+      "A data backup",
+      "A sorting algorithm",
+      "A network protocol"
+    ],
+    "answer": 0,
+    "explanation": "Regularization discourages excessive complexity."
+  },
+  {
+    "id": 263,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is data leakage?",
+    "options": [
+      "Using information unavailable at prediction time",
+      "Missing data",
+      "Too little RAM",
+      "A slow query"
+    ],
+    "answer": 0,
+    "explanation": "Leakage makes evaluation unrealistically optimistic."
+  },
+  {
+    "id": 264,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Machine Learning: What is data leakage? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Leakage makes evaluation unrealistically optimistic."
+  },
+  {
+    "id": 265,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is supervised learning?",
+    "options": [
+      "Learning from labeled examples",
+      "Learning without data",
+      "Only clustering",
+      "Only rule coding"
+    ],
+    "answer": 0,
+    "explanation": "Supervised methods learn mappings from labeled data."
+  },
+  {
+    "id": 266,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is overfitting?",
+    "options": [
+      "Good training performance but poor generalization",
+      "Poor training and test performance always",
+      "No model training",
+      "Only missing data"
+    ],
+    "answer": 0,
+    "explanation": "Overfitting captures training-specific patterns that do not generalize."
+  },
+  {
+    "id": 267,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Machine Learning: What is overfitting? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Overfitting captures training-specific patterns that do not generalize."
+  },
+  {
+    "id": 268,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a validation set used for?",
+    "options": [
+      "Model selection and tuning",
+      "Final reporting only",
+      "Replacing training data",
+      "Creating databases"
+    ],
+    "answer": 0,
+    "explanation": "Validation helps choose hyperparameters/models."
+  },
+  {
+    "id": 269,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why scale features?",
+    "options": [
+      "Some algorithms are sensitive to feature magnitudes",
+      "It always improves accuracy",
+      "It removes labels",
+      "It creates neural networks"
+    ],
+    "answer": 0,
+    "explanation": "Scaling can make distance/gradient-based methods behave better."
+  },
+  {
+    "id": 270,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Machine Learning: Why scale features? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Scaling can make distance/gradient-based methods behave better."
+  },
+  {
+    "id": 271,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is an activation function for?",
+    "options": [
+      "Introducing non-linearity",
+      "Sorting data",
+      "Storing files",
+      "Routing packets"
+    ],
+    "answer": 0,
+    "explanation": "Activations let neural networks model non-linear functions."
+  },
+  {
+    "id": 272,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does backpropagation compute?",
+    "options": [
+      "Gradients for model parameters",
+      "Database keys",
+      "Network routes",
+      "HTML tags"
+    ],
+    "answer": 0,
+    "explanation": "Backpropagation efficiently computes gradients."
+  },
+  {
+    "id": 273,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Deep Learning: What does backpropagation compute? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Backpropagation efficiently computes gradients."
+  },
+  {
+    "id": 274,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a CNN especially useful for?",
+    "options": [
+      "Spatial patterns in images",
+      "Only SQL",
+      "Only sorting",
+      "Only routing"
+    ],
+    "answer": 0,
+    "explanation": "Convolutional networks exploit local spatial structure."
+  },
+  {
+    "id": 275,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why use dropout?",
+    "options": [
+      "To reduce overfitting during training",
+      "To increase database size",
+      "To replace activation functions",
+      "To sort neurons"
+    ],
+    "answer": 0,
+    "explanation": "Dropout randomly omits units during training as regularization."
+  },
+  {
+    "id": 276,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Deep Learning: Why use dropout? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Dropout randomly omits units during training as regularization."
+  },
+  {
+    "id": 277,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is batch normalization intended to do?",
+    "options": [
+      "Normalize intermediate activations to stabilize training",
+      "Store batches in SQL",
+      "Encrypt weights",
+      "Remove labels"
+    ],
+    "answer": 0,
+    "explanation": "Batch norm can stabilize and speed training."
+  },
+  {
+    "id": 278,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is transfer learning?",
+    "options": [
+      "Reusing a pretrained model for a related task",
+      "Copying a database",
+      "Changing CPUs",
+      "Replacing Python"
+    ],
+    "answer": 0,
+    "explanation": "Transfer learning reuses learned representations."
+  },
+  {
+    "id": 279,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Deep Learning: What is transfer learning? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Transfer learning reuses learned representations."
+  },
+  {
+    "id": 280,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is an activation function for?",
+    "options": [
+      "Introducing non-linearity",
+      "Sorting data",
+      "Storing files",
+      "Routing packets"
+    ],
+    "answer": 0,
+    "explanation": "Activations let neural networks model non-linear functions."
+  },
+  {
+    "id": 281,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does backpropagation compute?",
+    "options": [
+      "Gradients for model parameters",
+      "Database keys",
+      "Network routes",
+      "HTML tags"
+    ],
+    "answer": 0,
+    "explanation": "Backpropagation efficiently computes gradients."
+  },
+  {
+    "id": 282,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Deep Learning: What does backpropagation compute? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Backpropagation efficiently computes gradients."
+  },
+  {
+    "id": 283,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a CNN especially useful for?",
+    "options": [
+      "Spatial patterns in images",
+      "Only SQL",
+      "Only sorting",
+      "Only routing"
+    ],
+    "answer": 0,
+    "explanation": "Convolutional networks exploit local spatial structure."
+  },
+  {
+    "id": 284,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why use dropout?",
+    "options": [
+      "To reduce overfitting during training",
+      "To increase database size",
+      "To replace activation functions",
+      "To sort neurons"
+    ],
+    "answer": 0,
+    "explanation": "Dropout randomly omits units during training as regularization."
+  },
+  {
+    "id": 285,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Deep Learning: Why use dropout? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Dropout randomly omits units during training as regularization."
+  },
+  {
+    "id": 286,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is IaaS?",
+    "options": [
+      "Infrastructure as a Service",
+      "Images as a Service",
+      "Internet as a Service only",
+      "Instructions as a Service"
+    ],
+    "answer": 0,
+    "explanation": "IaaS provides virtualized compute, storage and networking."
+  },
+  {
+    "id": 287,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is auto-scaling?",
+    "options": [
+      "Automatically adjusting resources to demand",
+      "Encrypting files",
+      "Writing SQL",
+      "Deleting servers manually"
+    ],
+    "answer": 0,
+    "explanation": "Auto-scaling changes capacity based on demand."
+  },
+  {
+    "id": 288,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Cloud Computing: What is auto-scaling? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Auto-scaling changes capacity based on demand."
+  },
+  {
+    "id": 289,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a container?",
+    "options": [
+      "An isolated application runtime sharing the host kernel",
+      "A physical hard drive",
+      "A database row",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "Containers package apps and dependencies with OS-level isolation."
+  },
+  {
+    "id": 290,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why use object storage?",
+    "options": [
+      "Durable storage for blobs/files at scale",
+      "CPU scheduling",
+      "Compiling code",
+      "Database locking"
+    ],
+    "answer": 0,
+    "explanation": "Object storage is suited to large unstructured objects."
+  },
+  {
+    "id": 291,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Cloud Computing: Why use object storage? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Object storage is suited to large unstructured objects."
+  },
+  {
+    "id": 292,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is serverless computing?",
+    "options": [
+      "Running code without managing servers directly",
+      "No servers exist",
+      "Only local programs",
+      "A database engine"
+    ],
+    "answer": 0,
+    "explanation": "The provider manages server infrastructure while you deploy functions/services."
+  },
+  {
+    "id": 293,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is horizontal scaling?",
+    "options": [
+      "Adding more instances",
+      "Making one server bigger",
+      "Reducing memory",
+      "Changing languages"
+    ],
+    "answer": 0,
+    "explanation": "Horizontal scaling adds instances."
+  },
+  {
+    "id": 294,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Cloud Computing: What is horizontal scaling? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Horizontal scaling adds instances."
+  },
+  {
+    "id": 295,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is IaaS?",
+    "options": [
+      "Infrastructure as a Service",
+      "Images as a Service",
+      "Internet as a Service only",
+      "Instructions as a Service"
+    ],
+    "answer": 0,
+    "explanation": "IaaS provides virtualized compute, storage and networking."
+  },
+  {
+    "id": 296,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is auto-scaling?",
+    "options": [
+      "Automatically adjusting resources to demand",
+      "Encrypting files",
+      "Writing SQL",
+      "Deleting servers manually"
+    ],
+    "answer": 0,
+    "explanation": "Auto-scaling changes capacity based on demand."
+  },
+  {
+    "id": 297,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Cloud Computing: What is auto-scaling? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Auto-scaling changes capacity based on demand."
+  },
+  {
+    "id": 298,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a container?",
+    "options": [
+      "An isolated application runtime sharing the host kernel",
+      "A physical hard drive",
+      "A database row",
+      "A network cable"
+    ],
+    "answer": 0,
+    "explanation": "Containers package apps and dependencies with OS-level isolation."
+  },
+  {
+    "id": 299,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why use object storage?",
+    "options": [
+      "Durable storage for blobs/files at scale",
+      "CPU scheduling",
+      "Compiling code",
+      "Database locking"
+    ],
+    "answer": 0,
+    "explanation": "Object storage is suited to large unstructured objects."
+  },
+  {
+    "id": 300,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Cloud Computing: Why use object storage? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Object storage is suited to large unstructured objects."
+  },
+  {
+    "id": 301,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which command records staged changes in Git history?",
+    "options": [
+      "git commit",
+      "git save",
+      "git record",
+      "git history"
+    ],
+    "answer": 0,
+    "explanation": "git commit creates a commit."
+  },
+  {
+    "id": 302,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Which command downloads remote commits?",
+    "options": [
+      "git pull",
+      "git fetch-only",
+      "git download",
+      "git receive"
+    ],
+    "answer": 0,
+    "explanation": "git pull fetches and integrates remote changes by default."
+  },
+  {
+    "id": 303,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Git/GitHub: Which command downloads remote commits? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "git pull fetches and integrates remote changes by default."
+  },
+  {
+    "id": 304,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a branch?",
+    "options": [
+      "An independent line of development",
+      "A database table",
+      "A server",
+      "A compiler stage"
+    ],
+    "answer": 0,
+    "explanation": "Branches isolate lines of development."
+  },
+  {
+    "id": 305,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is a pull request?",
+    "options": [
+      "A proposal to merge changes for review",
+      "A local commit",
+      "A Python function",
+      "A database query"
+    ],
+    "answer": 0,
+    "explanation": "PRs support review and integration of changes."
+  },
+  {
+    "id": 306,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Git/GitHub: What is a pull request? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "PRs support review and integration of changes."
+  },
+  {
+    "id": 307,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why resolve merge conflicts carefully?",
+    "options": [
+      "Different changes affect the same lines/areas and need a human decision",
+      "Git cannot store files",
+      "Branches are deleted",
+      "Commits are encrypted"
+    ],
+    "answer": 0,
+    "explanation": "Conflicts require choosing the intended combined result."
+  },
+  {
+    "id": 308,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is rebase commonly used for?",
+    "options": [
+      "Replaying commits onto a new base",
+      "Deleting all history",
+      "Creating a database",
+      "Running tests"
+    ],
+    "answer": 0,
+    "explanation": "Rebase rewrites commit ancestry by replaying changes."
+  },
+  {
+    "id": 309,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Git/GitHub: What is rebase commonly used for? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Rebase rewrites commit ancestry by replaying changes."
+  },
+  {
+    "id": 310,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which command records staged changes in Git history?",
+    "options": [
+      "git commit",
+      "git save",
+      "git record",
+      "git history"
+    ],
+    "answer": 0,
+    "explanation": "git commit creates a commit."
+  },
+  {
+    "id": 311,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Which command downloads remote commits?",
+    "options": [
+      "git pull",
+      "git fetch-only",
+      "git download",
+      "git receive"
+    ],
+    "answer": 0,
+    "explanation": "git pull fetches and integrates remote changes by default."
+  },
+  {
+    "id": 312,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Git/GitHub: Which command downloads remote commits? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "git pull fetches and integrates remote changes by default."
+  },
+  {
+    "id": 313,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a branch?",
+    "options": [
+      "An independent line of development",
+      "A database table",
+      "A server",
+      "A compiler stage"
+    ],
+    "answer": 0,
+    "explanation": "Branches isolate lines of development."
+  },
+  {
+    "id": 314,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is a pull request?",
+    "options": [
+      "A proposal to merge changes for review",
+      "A local commit",
+      "A Python function",
+      "A database query"
+    ],
+    "answer": 0,
+    "explanation": "PRs support review and integration of changes."
+  },
+  {
+    "id": 315,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Git/GitHub: What is a pull request? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "PRs support review and integration of changes."
+  },
+  {
+    "id": 316,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is phishing?",
+    "options": [
+      "Deceptive messages designed to steal information",
+      "A sorting method",
+      "A database query",
+      "A CPU instruction"
+    ],
+    "answer": 0,
+    "explanation": "Phishing tricks users into revealing sensitive information."
+  },
+  {
+    "id": 317,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does MFA add?",
+    "options": [
+      "An additional authentication factor",
+      "A firewall rule only",
+      "A database index",
+      "A compiler phase"
+    ],
+    "answer": 0,
+    "explanation": "MFA requires multiple factors."
+  },
+  {
+    "id": 318,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Cybersecurity: What does MFA add? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "MFA requires multiple factors."
+  },
+  {
+    "id": 319,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is hashing commonly used for?",
+    "options": [
+      "One-way representation such as password verification",
+      "Decrypting any file",
+      "Routing packets",
+      "Rendering HTML"
+    ],
+    "answer": 0,
+    "explanation": "Cryptographic hashes support integrity and password verification."
+  },
+  {
+    "id": 320,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is least privilege?",
+    "options": [
+      "Give only the access necessary for a task",
+      "Give everyone admin access",
+      "Disable authentication",
+      "Share passwords"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege minimizes permissions."
+  },
+  {
+    "id": 321,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Cybersecurity: What is least privilege? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Least privilege minimizes permissions."
+  },
+  {
+    "id": 322,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is SQL injection?",
+    "options": [
+      "Manipulating a query through untrusted input",
+      "A CPU attack only",
+      "A Git command",
+      "A CSS bug"
+    ],
+    "answer": 0,
+    "explanation": "Unsafely concatenated input can alter SQL queries."
+  },
+  {
+    "id": 323,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why use parameterized queries?",
+    "options": [
+      "To separate data from SQL syntax",
+      "To speed every query",
+      "To remove databases",
+      "To disable indexes"
+    ],
+    "answer": 0,
+    "explanation": "Parameters help prevent injection by separating values from query structure."
+  },
+  {
+    "id": 324,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Cybersecurity: Why use parameterized queries? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Parameters help prevent injection by separating values from query structure."
+  },
+  {
+    "id": 325,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is phishing?",
+    "options": [
+      "Deceptive messages designed to steal information",
+      "A sorting method",
+      "A database query",
+      "A CPU instruction"
+    ],
+    "answer": 0,
+    "explanation": "Phishing tricks users into revealing sensitive information."
+  },
+  {
+    "id": 326,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does MFA add?",
+    "options": [
+      "An additional authentication factor",
+      "A firewall rule only",
+      "A database index",
+      "A compiler phase"
+    ],
+    "answer": 0,
+    "explanation": "MFA requires multiple factors."
+  },
+  {
+    "id": 327,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Cybersecurity: What does MFA add? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "MFA requires multiple factors."
+  },
+  {
+    "id": 328,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is hashing commonly used for?",
+    "options": [
+      "One-way representation such as password verification",
+      "Decrypting any file",
+      "Routing packets",
+      "Rendering HTML"
+    ],
+    "answer": 0,
+    "explanation": "Cryptographic hashes support integrity and password verification."
+  },
+  {
+    "id": 329,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is least privilege?",
+    "options": [
+      "Give only the access necessary for a task",
+      "Give everyone admin access",
+      "Disable authentication",
+      "Share passwords"
+    ],
+    "answer": 0,
+    "explanation": "Least privilege minimizes permissions."
+  },
+  {
+    "id": 330,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Cybersecurity: What is least privilege? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Least privilege minimizes permissions."
+  },
+  {
+    "id": 331,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What does HTTP GET usually request?",
+    "options": [
+      "A resource",
+      "A database schema",
+      "A compiler",
+      "A CPU register"
+    ],
+    "answer": 0,
+    "explanation": "GET retrieves a resource."
+  },
+  {
+    "id": 332,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is an API?",
+    "options": [
+      "A defined interface for software communication",
+      "A CSS color",
+      "A database file",
+      "A processor"
+    ],
+    "answer": 0,
+    "explanation": "APIs expose structured ways for software to interact."
+  },
+  {
+    "id": 333,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Web Development: What is an API? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "APIs expose structured ways for software to interact."
+  },
+  {
+    "id": 334,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does REST commonly use?",
+    "options": [
+      "HTTP resources and methods",
+      "Only FTP",
+      "Only SQL",
+      "Only WebSockets"
+    ],
+    "answer": 0,
+    "explanation": "REST commonly models resources with HTTP operations."
+  },
+  {
+    "id": 335,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "Why validate input on the server?",
+    "options": [
+      "Clients cannot be trusted",
+      "Browsers never send data",
+      "CSS can validate databases",
+      "It replaces authentication"
+    ],
+    "answer": 0,
+    "explanation": "Server-side validation protects application integrity."
+  },
+  {
+    "id": 336,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Web Development: Why validate input on the server? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Server-side validation protects application integrity."
+  },
+  {
+    "id": 337,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is CORS?",
+    "options": [
+      "A browser security mechanism controlling cross-origin requests",
+      "A database engine",
+      "A CSS layout",
+      "A compiler"
+    ],
+    "answer": 0,
+    "explanation": "CORS governs whether browser requests across origins are permitted."
+  },
+  {
+    "id": 338,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "What is idempotency useful for in APIs?",
+    "options": [
+      "Repeating certain requests without changing the intended result after the first success",
+      "Encrypting passwords",
+      "Creating HTML",
+      "Running SQL joins"
+    ],
+    "answer": 0,
+    "explanation": "Idempotent operations can safely be retried."
+  },
+  {
+    "id": 339,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Web Development: What is idempotency useful for in APIs? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Idempotent operations can safely be retried."
+  },
+  {
+    "id": 340,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What does HTTP GET usually request?",
+    "options": [
+      "A resource",
+      "A database schema",
+      "A compiler",
+      "A CPU register"
+    ],
+    "answer": 0,
+    "explanation": "GET retrieves a resource."
+  },
+  {
+    "id": 341,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is an API?",
+    "options": [
+      "A defined interface for software communication",
+      "A CSS color",
+      "A database file",
+      "A processor"
+    ],
+    "answer": 0,
+    "explanation": "APIs expose structured ways for software to interact."
+  },
+  {
+    "id": 342,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Web Development: What is an API? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "APIs expose structured ways for software to interact."
+  },
+  {
+    "id": 343,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does REST commonly use?",
+    "options": [
+      "HTTP resources and methods",
+      "Only FTP",
+      "Only SQL",
+      "Only WebSockets"
+    ],
+    "answer": 0,
+    "explanation": "REST commonly models resources with HTTP operations."
+  },
+  {
+    "id": 344,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "Why validate input on the server?",
+    "options": [
+      "Clients cannot be trusted",
+      "Browsers never send data",
+      "CSS can validate databases",
+      "It replaces authentication"
+    ],
+    "answer": 0,
+    "explanation": "Server-side validation protects application integrity."
+  },
+  {
+    "id": 345,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Web Development: Why validate input on the server? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Server-side validation protects application integrity."
+  },
+  {
+    "id": 346,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "What is a dataframe?",
+    "options": [
+      "A tabular data structure",
+      "A network packet",
+      "A CPU register",
+      "A CSS class"
+    ],
+    "answer": 0,
+    "explanation": "Dataframes represent tabular data with labeled axes."
+  },
+  {
+    "id": 347,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "mcq",
+    "question": "Why clean missing values?",
+    "options": [
+      "Missingness can distort analysis or model behavior",
+      "It always increases data",
+      "It changes hardware",
+      "It replaces SQL"
+    ],
+    "answer": 0,
+    "explanation": "Missing data can affect calculations and models."
+  },
+  {
+    "id": 348,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Foundation",
+    "difficulty": "Foundation",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Analytics: Why clean missing values? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Missing data can affect calculations and models."
+  },
+  {
+    "id": 349,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What does correlation measure?",
+    "options": [
+      "Association between variables",
+      "Causation always",
+      "Database size",
+      "CPU speed"
+    ],
+    "answer": 0,
+    "explanation": "Correlation measures statistical association, not necessarily causation."
+  },
+  {
+    "id": 350,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "mcq",
+    "question": "What is an outlier?",
+    "options": [
+      "An unusually distant observation",
+      "A duplicate table",
+      "A compiler token",
+      "A network port"
+    ],
+    "answer": 0,
+    "explanation": "Outliers are observations far from the typical pattern."
+  },
+  {
+    "id": 351,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Beginner",
+    "difficulty": "Beginner",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Analytics: What is an outlier? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Outliers are observations far from the typical pattern."
+  },
+  {
+    "id": 352,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why split train/test data?",
+    "options": [
+      "To estimate generalization on unseen data",
+      "To delete data",
+      "To speed Python",
+      "To format charts"
+    ],
+    "answer": 0,
+    "explanation": "A held-out test set estimates performance on unseen examples."
+  },
+  {
+    "id": 353,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "mcq",
+    "question": "Why visualize distributions?",
+    "options": [
+      "To reveal patterns, skew, spread and anomalies",
+      "To replace statistics completely",
+      "To encrypt data",
+      "To compile code"
+    ],
+    "answer": 0,
+    "explanation": "Visualizations help understand data structure and anomalies."
+  },
+  {
+    "id": 354,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Analytics: Why visualize distributions? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Visualizations help understand data structure and anomalies."
+  },
+  {
+    "id": 355,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "What is a dataframe?",
+    "options": [
+      "A tabular data structure",
+      "A network packet",
+      "A CPU register",
+      "A CSS class"
+    ],
+    "answer": 0,
+    "explanation": "Dataframes represent tabular data with labeled axes."
+  },
+  {
+    "id": 356,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "mcq",
+    "question": "Why clean missing values?",
+    "options": [
+      "Missingness can distort analysis or model behavior",
+      "It always increases data",
+      "It changes hardware",
+      "It replaces SQL"
+    ],
+    "answer": 0,
+    "explanation": "Missing data can affect calculations and models."
+  },
+  {
+    "id": 357,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Analytics: Why clean missing values? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Missing data can affect calculations and models."
+  },
+  {
+    "id": 358,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What does correlation measure?",
+    "options": [
+      "Association between variables",
+      "Causation always",
+      "Database size",
+      "CPU speed"
+    ],
+    "answer": 0,
+    "explanation": "Correlation measures statistical association, not necessarily causation."
+  },
+  {
+    "id": 359,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "mcq",
+    "question": "What is an outlier?",
+    "options": [
+      "An unusually distant observation",
+      "A duplicate table",
+      "A compiler token",
+      "A network port"
+    ],
+    "answer": 0,
+    "explanation": "Outliers are observations far from the typical pattern."
+  },
+  {
+    "id": 360,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Explain this idea from Data Analytics: What is an outlier? Give one example and one reason your example supports the idea.",
+    "options": [],
+    "answer": null,
+    "explanation": "Outliers are observations far from the typical pattern."
+  },
+  {
+    "id": 361,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Python to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 362,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Python to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 363,
+    "subject": "Python",
+    "topic": "Python",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Python to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 364,
+    "subject": "C",
+    "topic": "C",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from C to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 365,
+    "subject": "C",
+    "topic": "C",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from C to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 366,
+    "subject": "C",
+    "topic": "C",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from C to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 367,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from C++ to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 368,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from C++ to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 369,
+    "subject": "C++",
+    "topic": "C++",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from C++ to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 370,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Java to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 371,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Java to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 372,
+    "subject": "Java",
+    "topic": "Java",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Java to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 373,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from JavaScript to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 374,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from JavaScript to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 375,
+    "subject": "JavaScript",
+    "topic": "JavaScript",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from JavaScript to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 376,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from HTML/CSS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 377,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from HTML/CSS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 378,
+    "subject": "HTML/CSS",
+    "topic": "HTML/CSS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from HTML/CSS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 379,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from SQL to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 380,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from SQL to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 381,
+    "subject": "SQL",
+    "topic": "SQL",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from SQL to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 382,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from DBMS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 383,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from DBMS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 384,
+    "subject": "DBMS",
+    "topic": "DBMS",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from DBMS to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 385,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Structures to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 386,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Structures to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 387,
+    "subject": "Data Structures",
+    "topic": "Data Structures",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Structures to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 388,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Algorithms to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 389,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Algorithms to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 390,
+    "subject": "Algorithms",
+    "topic": "Algorithms",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Algorithms to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 391,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from OOP to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 392,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from OOP to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 393,
+    "subject": "OOP",
+    "topic": "OOP",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from OOP to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 394,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Operating Systems to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 395,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Operating Systems to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 396,
+    "subject": "Operating Systems",
+    "topic": "Operating Systems",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Operating Systems to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 397,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Networks to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 398,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Networks to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 399,
+    "subject": "Computer Networks",
+    "topic": "Computer Networks",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Networks to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 400,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Software Engineering to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 401,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Software Engineering to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 402,
+    "subject": "Software Engineering",
+    "topic": "Software Engineering",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Software Engineering to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 403,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Organization to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 404,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Organization to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 405,
+    "subject": "Computer Organization",
+    "topic": "Computer Organization",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Computer Organization to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 406,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Compiler Design to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 407,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Compiler Design to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 408,
+    "subject": "Compiler Design",
+    "topic": "Compiler Design",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Compiler Design to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 409,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Artificial Intelligence to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 410,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Artificial Intelligence to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 411,
+    "subject": "Artificial Intelligence",
+    "topic": "Artificial Intelligence",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Artificial Intelligence to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 412,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Machine Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 413,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Machine Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 414,
+    "subject": "Machine Learning",
+    "topic": "Machine Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Machine Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 415,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Deep Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 416,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Deep Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 417,
+    "subject": "Deep Learning",
+    "topic": "Deep Learning",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Deep Learning to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 418,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Cloud Computing to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 419,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Cloud Computing to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 420,
+    "subject": "Cloud Computing",
+    "topic": "Cloud Computing",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Cloud Computing to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 421,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Git/GitHub to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 422,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Git/GitHub to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 423,
+    "subject": "Git/GitHub",
+    "topic": "Git/GitHub",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Git/GitHub to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 424,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Cybersecurity to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 425,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Cybersecurity to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 426,
+    "subject": "Cybersecurity",
+    "topic": "Cybersecurity",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Cybersecurity to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 427,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Web Development to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 428,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Web Development to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 429,
+    "subject": "Web Development",
+    "topic": "Web Development",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Web Development to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 430,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Intermediate",
+    "difficulty": "Intermediate",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Analytics to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 431,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Advanced",
+    "difficulty": "Advanced",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Analytics to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  },
+  {
+    "id": 432,
+    "subject": "Data Analytics",
+    "topic": "Data Analytics",
+    "level": "Expert",
+    "difficulty": "Expert",
+    "type": "reasoning",
+    "question": "Apply a concept from Data Analytics to a realistic project scenario. State your approach, justify it, and mention one trade-off.",
+    "options": [],
+    "answer": null,
+    "explanation": "Strong answers justify a decision and acknowledge trade-offs."
+  }
+]
